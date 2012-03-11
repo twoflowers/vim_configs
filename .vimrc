@@ -1,5 +1,17 @@
 set ts=4
 set number
+set shiftwidth=4
+set softtabstop=4
+set expandtab
+set number
+set ls=2
+set scrolloff=3
+set hlsearch
+set ruler
+set ignorecase
+set title
+set autoindent
+set smartindent
 
 source ~/vim_configs/python3.0.vim
 source ~/vim_configs/SearchComplete.vim
